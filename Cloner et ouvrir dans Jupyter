@@ -7,7 +7,7 @@ Chanu <3
 
 Pour ouvrir le document dans Jupyter :
 
-- Ouvrir un terminal
+- Ouvrir un terminal(Nouvel onglet Terminal : Cltrl+Maj+T)
 - Aller dans le dossier que l'on vient de cloner
 - Taper ipython notebook
 
