@@ -1,8 +1,13 @@
-Pour uploader ou actualiser les cours sur internet sur nos pc :
+Pour uploader ou actualiser les cours sur nos pc :
 - Ouvrir un terminal
 - Allez dans le dossier de votre choix (par exemple cd Documents/cours_Python après avoir créé le dossier cours_Python) (cltr+Maj+C)
-- Taper : git clone + https://github.com/votre_pseudo/nom_repertoire (pour un dossier perso)
-- Taper : git clone + https://github.com/bendaizer/Villebon-5.2-Analyse-Donnees-2016.git (pour le cours)
+- Taper : git clone + https://github.com/bendaizer/Villebon-5.2-Analyse-Donnees-2016.git 
+
+Pour uploader ou actualiser les dossier perso:
+- Ouvrir un terminal
+- Allez dans le dossier de votre choix (par exemple cd Documents/cours_Python après avoir créé le dossier cours_Python) (cltr+Maj+C)
+- Taper : git clone + https://github.com/votre_pseudo/nom_repertoire 
+
 
 Pour ouvrir le document dans Jupyter :
 
